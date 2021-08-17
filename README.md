@@ -13,4 +13,5 @@
 # My Links
 * [My YouTube](https://www.youtube.com/channel/UCU9dq3widkIqXD40yQsawtA "My YouTube")
 * [My Really Cool Blog](https://johnlradford.io/ "johnlradford.io")
+* [My HTB](https://www.bluesquare23.sh/htb.html) [![H4XZ0R!](https://www.hackthebox.eu/images/icon20.png)](https://www.bluesquare23.sh/htb.html)
 * [The Truth](https://tailiens.com/ "Secret Link")
