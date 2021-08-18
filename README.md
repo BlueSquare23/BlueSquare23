@@ -3,7 +3,7 @@
 ## About Me 
 * Occupation: Minor Bit Pusher in the Packet Delivery System
 * Hobbies: Haxin for fun, Haxin for money, Just Hangin Out
-* Fun Fact About Me: I studied art in college
+* Fun Fact About Me: I studied art history in college
 
 ## Projects I'm Proud Of
 * [Random Doggo Flask App](https://bluesquare23.sh/Web_Development/tree/master/FlaskApp "Doggo Flask App")
