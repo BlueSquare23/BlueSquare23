@@ -1,8 +1,8 @@
 # I am [![BlueSquare23](https://johnlradford.io/wp-content/uploads/2018/09/cropped-BlueSquare-1-32x32.jpg)](https://bluesquare23.sh/BlueSquare23 "BlueSquare23")
 
 ## About Me 
-* Occupation: Minor Bit Pusher in the Packet Delivery System
-* Hobbies: Haxin for fun, Haxin for money, Just Hangin Out
+* Occupation: Minor bit pusher in the packet delivery system
+* Hobbies: Haxin for fun, Fixin for money, Just Hangin Out
 * Fun Fact About Me: I have a humanities BA in art history / philosophy
 
 ## Projects I'm Proud Of
