@@ -6,8 +6,9 @@
 * Fun Fact About Me: My college degree is in art history & philosophy
 
 ## Projects I'm Proud Of
-* [Homemade Server Monitor](https://bluesquare23.sh/ServerMonitor/tree/master "My homemade server monitoring python flask application.")
-* [Random Doggo Flask App](https://bluesquare23.sh/Web_Development/tree/master/FlaskApp "Doggo Flask App")
+* [SSH Key Network Mapper](https://bluesquare23.sh/ssh-map "This script is meant to help map (enumerate) ssh key networks.")
+* [Server Monitor](https://bluesquare23.sh/ServerMonitor/tree/master "My homemade server monitoring python flask application.")
+* [Rshell.sh](https://bluesquare23.sh/Rshell.sh "Reverse Shell Payload Generator")
 * [Write and Run Any Lang](https://bluesquare23.sh/WriteAndRun "Okay, really it only does like 15, but still...")
 
 ## My Links
