@@ -1,7 +1,7 @@
 # I am [![BlueSquare23](https://johnlradford.io/blog/wp-content/uploads/2018/09/cropped-BlueSquare-1-32x32.jpg)](https://bluesquare23.sh/BlueSquare23 "BlueSquare23")
 
 ## About Me 
-* Occupation: Minor bit pusher in the packet delivery system
+* Occupation: Proud hall monitor & bit pusher on the information super highway
 * Hobbies: Haxin for fun, Fixin for money, Just Hangin Out
 * Fun Fact About Me: My college degree is in art history & philosophy
 
