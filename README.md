@@ -14,5 +14,5 @@
 ## My Links
 * [My YouTube](https://www.youtube.com/channel/UCU9dq3widkIqXD40yQsawtA "My YouTube") [![My YT](https://www.youtube.com/favicon.ico)](https://www.bluesquare23.sh/YT)
 * [My Really Cool Blog](https://johnlradford.io/blog "johnlradford.io") [![BlueSquare23](https://johnlradford.io/favicon.ico)](https://johnlradford.io/blog)
-* [My HTB](https://www.bluesquare23.sh/htb.html) [![H4XZ0R!](https://www.hackthebox.com/images/logo-htb.svg)](https://www.bluesquare23.sh/htb.html)
+* [My HTB](https://www.bluesquare23.sh/htb.html) [![H4XZ0R!](https://www.hackthebox.com/images/landingv3/favicon.png)](https://www.bluesquare23.sh/htb.html)
 * [The Truth](https://tailiens.com/ "Secret Link") [![Tails of Aliens](https://tailiens.com/favicon.ico)](https://tailiens.com)
