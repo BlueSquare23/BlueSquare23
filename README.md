@@ -6,10 +6,10 @@
 * Fun Fact About Me: My college degree is in art history & philosophy
 
 ## Projects I'm Proud Of
+* [Shotgun.pl](https://github.com/BlueSquare23/Learning_Perl/tree/master/MiscPerlScripts/shotgun "Its a shotgun, it shoots holes in files.")
+* [Web-LGSM](https://github.com/BlueSquare23/web-lgsm "A simple interactive web interface to wrap the LGSM project.")
 * [SSH Key Network Mapper](https://bluesquare23.sh/ssh-map "This script is meant to help map (enumerate) ssh key networks.")
-* [Server Monitor](https://bluesquare23.sh/ServerMonitor/tree/master "My homemade server monitoring python flask application.")
 * [Rshell.sh](https://bluesquare23.sh/Rshell.sh "Reverse Shell Payload Generator")
-* [Write and Run Any Lang](https://bluesquare23.sh/WriteAndRun "Okay, really it only does like 15, but still...")
 
 ## My Links
 * [My YouTube](https://www.youtube.com/channel/UCU9dq3widkIqXD40yQsawtA "My YouTube") [![My YT](https://www.youtube.com/favicon.ico)](https://www.bluesquare23.sh/YT)
