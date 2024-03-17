@@ -1,7 +1,7 @@
 # I am [![BlueSquare23](https://johnlradford.io/blog/wp-content/uploads/2018/09/cropped-BlueSquare-1-32x32.jpg)](https://bluesquare23.sh/BlueSquare23 "BlueSquare23")
 
 ## About Me 
-* Occupation: Junior Systems Operating Systems & Operational Development Operations Engineering Technician & Senior System Operational Administration Systems Operations Development / Systems Operations Cooridnation Specialist
+* Occupation: Junior Systems Security Operating Systems & Operational Security Development Operations Engineering Technician & Senior System Operational Security Administration Systems Operations Development / Security Systems Operater Cooridnation Specialist
 * Hobbies: Haxin for fun, Fixin for money, Just Hangin Out
 * Fun Fact About Me: My college degree is in art history & philosophy
 
